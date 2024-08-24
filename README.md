@@ -13,7 +13,6 @@ This repository contains a Python script to perform image classification on the 
   - [Prediction and Visualization](#prediction-and-visualization)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [License](#license)
 
 ## Installation
 
@@ -143,7 +142,3 @@ show_image_with_prediction(test_images[2], class_pred)
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
