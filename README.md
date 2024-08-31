@@ -138,7 +138,3 @@ show_image_with_prediction(test_images[2], class_pred)
    ```
 
 4. **Use the `classify_image` function** to classify a new image.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
